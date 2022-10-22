@@ -88,9 +88,9 @@ class Program
 
 
 
-        // добавляем диск С в файловую систему
+        // Add Faculties to University
         University.Add(Faculties);
-        // выводим все данные
+        // Print all Data
         University.Print();
 
 
