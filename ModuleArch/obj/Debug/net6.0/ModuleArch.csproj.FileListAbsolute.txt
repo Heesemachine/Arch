@@ -1,0 +1,15 @@
+C:\Users\Vyacheslav\source\repos\ModuleArch\bin\Debug\net6.0\ModuleArch.exe
+C:\Users\Vyacheslav\source\repos\ModuleArch\bin\Debug\net6.0\ModuleArch.deps.json
+C:\Users\Vyacheslav\source\repos\ModuleArch\bin\Debug\net6.0\ModuleArch.runtimeconfig.json
+C:\Users\Vyacheslav\source\repos\ModuleArch\bin\Debug\net6.0\ModuleArch.dll
+C:\Users\Vyacheslav\source\repos\ModuleArch\bin\Debug\net6.0\ModuleArch.pdb
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ModuleArch.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ModuleArch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ModuleArch.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ModuleArch.AssemblyInfo.cs
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ModuleArch.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ModuleArch.dll
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\refint\ModuleArch.dll
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ModuleArch.pdb
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ModuleArch.genruntimeconfig.cache
+C:\Users\Vyacheslav\source\repos\ModuleArch\obj\Debug\net6.0\ref\ModuleArch.dll
